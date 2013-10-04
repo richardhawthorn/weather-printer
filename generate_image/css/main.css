@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+
+
+.center{
+	text-align:center;
+}
+
+.weatherBox{
+	float:left;
+	width:70px;
+	text-align:center;
+	margin:0 10px 0 0;
+}
+
+.clearLeft{
+	clear:left;
+}
+.clearRight{
+	clear:right;
+}
+.clear{
+	clear:both;
+}
+
+.tipsIcon{
+	float:left;
+}
+.tipsText{
+	margin:0 0 0 40px;
+}
+
+
+
+
+
+
+
+
+
